@@ -1,5 +1,7 @@
 Nodejs-express-mongoDB-start-example is the starting point for developing a backend that exports data from MongoDB to the frontend. After installation you will have an app.js and server.js example files ready to run. You will also have headers "GET, POST, PATCH, PUT, DELETE, OPTIONS" set for communication between frontrend and backend. Good luck and build something that rocks!   
 # Installation
+## Install NodeJS
+apt-get install nodejs
 ## Install MongoDB 
 ### Add key
 curl -fsSL https://www.mongodb.org/static/pgp/server-4.4.asc | sudo apt-key add -  
