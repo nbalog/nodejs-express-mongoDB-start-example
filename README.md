@@ -1,4 +1,4 @@
-nodejs-express-mongoDB-start-example is the starting point for developing a backend that exports data from MongoDB to the frontend.   
+Nodejs-express-mongoDB-start-example is the starting point for developing a backend that exports data from MongoDB to the frontend. After installation you will have an app.js and server.js example files ready to run.   
 # Installation
 ## Install MongoDB 
 ### Add key
