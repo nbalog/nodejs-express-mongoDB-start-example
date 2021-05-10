@@ -4,12 +4,7 @@ The starting point for developing a backend that exports data from MongoDB to th
 ``` git clone https://github.com/nbalog/nodejs-express-mongoDB-start-example.git ```
 ## Install NodeJS
 ``` apt-get install nodejs ```
-### Install Express
-``` npm install express --save ```
-### Install Mongoose  
-``` npm install mongoose --save ```
-### Install MongoDB package   
-``` npm install mongodb --save ```
+Run ``` npm install" ``` inside this project folder to install all dependencies.
 ## Install MongoDB 
 ### Add key
 ``` curl -fsSL https://www.mongodb.org/static/pgp/server-4.4.asc | sudo apt-key add - ```  
